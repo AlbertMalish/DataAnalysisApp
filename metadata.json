@@ -1,0 +1,6 @@
+{
+  "name": "DataLearn Android: Data Analysis Master",
+  "description": "Android mobile learning app for Excel, Google Sheets, MySQL, Power BI, Tableau, and Kobo Collect with interactive sandboxes, lessons, and practice datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
